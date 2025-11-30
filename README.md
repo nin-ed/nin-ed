@@ -3,7 +3,6 @@
 I'm Edwin Toppo, a skilled Frontend Developer, and AI enthusiast.
 
 💻 I have 3+ years of experience Frontend Development, and 5+ years of experience in Data Structures and Algorithms.
-
 🤖 I also have a keen interest in Artifical Intelligence and Machine Learning.
 
 🌍 I'm currently based in India
