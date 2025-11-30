@@ -8,6 +8,8 @@ I'm Edwin Toppo, a skilled Frontend Developer, and AI enthusiast.
 
 🌍 I'm currently based in India
 
+## Socials
+<img width="18" height="18" alt="image" src="https://github.com/user-attachments/assets/a9eb828f-5cec-4685-a17a-e6d110cb880f" /> <a href="https://www.linkedin.com/in/edwin-toppo">Linkedin</a>
 
 ## Tech Stack
 ### Frontend/ Web Development
